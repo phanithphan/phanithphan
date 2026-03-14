@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Phanith 👋
 
-<!--
-**phanithphan/phanithphan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 IT Graduate / Beginner Developer  
+🌱 Currently learning Web Development, Linux, and Networking  
+🔧 Interested in Front-End Web Development, System Administration and IT Support  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+- HTML
+- CSS
+- JavaScript (beginner)
+- Git & GitHub
+- Linux basics
+- Networking fundamentals
+
+---
+
+## 📂 Projects
+
+🔹 Portfolio Website  
+A personal website to showcase my work.
+
+🔹 HTML & CSS Practice  
+Layouts, responsive design, and UI components.
+
+🔹 JavaScript Mini Projects  
+Calculator, To-do list, and small apps.
+
+🔹 Linux Practice  
+Terminal commands and Linux exercises.
+
+---
+
+## 📚 Currently Learning
+
+- JavaScript
+- Linux System Administration
+- Networking
+- CompTIA A+ topics
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/phanithphan
+- LinkIn: https://www.linkedin.com/in/phanithphan
+- Email: phanithphan@gmail.com
+
+---
+
+⭐ Always learning and building new things.
