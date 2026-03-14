@@ -14,6 +14,7 @@
 - Git & GitHub
 - Linux basics
 - Networking fundamentals
+- Graphic Design (Photoshop & Illustrator)
 
 ---
 
