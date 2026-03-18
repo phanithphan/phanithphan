@@ -1,6 +1,6 @@
 # Hi, I'm Phanith 👋
 
-💻 IT Graduate | Seeking Junior IT roles
+💻 IT Graduate
 
 🌱 Currently learning Web Development, Linux, and Networking  
 🔧 Interested in Front-End Web Development, System Administration and IT Support  
